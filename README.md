@@ -12,8 +12,11 @@ I am a CAD Designer/ CAM Programmer at a professional level and a recent DevOps 
 
 ### Work Expirence 
 ** CAD Designer & CAM Programmer at Samuel Heath (_Feb 2023 - present_)**
-** Project Assistant Manager at Arrowsmith Eng Ltd. (_January 2021_)** 
+- Transfering the fundamental customer's initial concept design ideals into a real life model by using various 3D designing softwares to design and build componets. I also used servaral CAM software to writing, generate and simulate an automated G Codes/M Codes programe before deploying the codes to shopfloor 5 Axis machines.
 
+** Project Assistant Manager at Arrowsmith Eng Ltd. (_January 2021_)** 
+- Assisting the main project manager with the day to day activities (TPM, KPI etc) and also liaiseing with third parties.
+   
 ### Projects
 - GitHub
 - Linux
