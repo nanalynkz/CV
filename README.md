@@ -22,7 +22,22 @@ I am a CAD Designer/ CAM Programmer at a professional level and a recent DevOps 
 - Linux
 - Amazon Cloud AWS
 - Automation Project
-- 
+
+### Cloud
+<div>
+    <img src="https://img.shields.io/badge/-Amazon_AWS-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
+
+
 ### Certifications 
 <div>
 <a href="https://solidcam.com/imachining/imachining-overview"><img src="https://img.shields.io/badge/-SolidCAM-007ACC?&style=for-the-badge&logo=Solidworks&logoColor=white" /></a>    
