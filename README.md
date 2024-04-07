@@ -10,6 +10,12 @@ I am a CAD Designer/ CAM Programmer at a professional level and a recent DevOps 
 - Extended Diploma General Engineering (_June 2018_) 
 - Performing Engineering Operations (_June 2017_)
 
+## Skills
+| Skill                                         | Associated Project      |
+|-----------------------------------------------|-------------------------|
+| Scripting and Automation                      | Automation Lab          |
+| .                                             |                         |
+
 ### Work Expirence 
 ** CAD Designer & CAM Programmer at Samuel Heath (_Feb 2023 - present_)**
 - Transfering the fundamental customer's initial concept design ideals into a real life model by using various 3D designing softwares to design and build componets. I also used servaral CAM software to writing, generate and simulate an automated G Codes/M Codes programe before deploying the codes to shopfloor 5 Axis machines.
