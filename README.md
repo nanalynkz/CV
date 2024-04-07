@@ -11,10 +11,7 @@ I am a CAD Designer/ CAM Programmer at a professional level and a recent DevOps 
 - Performing Engineering Operations (_June 2017_)
 
 ## Skills
--| Skill                                         | Associated Project      |
--|-----------------------------------------------|-------------------------|
--| Scripting and Automation                      | Automation Lab          |
--| .                                             |                         |
+
 
 ### Work Expirence 
 ** CAD Designer & CAM Programmer at Samuel Heath (_Feb 2023 - present_)**
