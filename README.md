@@ -1,6 +1,6 @@
 # DevOps/Cloud Engineer, 3D CAD Designer, CAM Programmer
 
-## Bio
+## ABOUT
 I am a CAD Designer/ CAM Programmer at a professional level and a recent DevOps graduate with an extreme interest in technology and a keenness to solving complex problems. My expedition in computer science has led me to develop a passion for DevOps, and I am now keen to transition into this area, precisely aiming to join a profound company. 
 
 ### Education
@@ -20,35 +20,40 @@ I am a CAD Designer/ CAM Programmer at a professional level and a recent DevOps 
 ** CAD Designer & CAM Programmer at Samuel Heath (_Feb 2023 - present_)**
 - Transfering the fundamental customer's initial concept design ideals into a real life model by using various 3D designing softwares to design and build componets. I also used servaral CAM software to writing, generate and simulate an automated G Codes/M Codes programe before deploying the codes to shopfloor 5 Axis machines.
 
-** Project Assistant Manager at Arrowsmith Eng Ltd. (_January 2021_)** 
+** Project Assistant Manager at Arrowsmith Eng Ltd. (_January - July 2022_)** 
 - Assisting the main project manager with the day to day activities (TPM, KPI etc) and also liaiseing with third parties.
-   
-### Projects
-- GitHub
-- Linux
-- Amazon Cloud AWS
-- Automation Project
 
-### Cloud
+### Developer Tools
+- HTML
+- Git
+- GitHub
+- Docker
+- Visual Studio Code
+- 
+### Projects
+- Creating repos for both public and private purposes using GitHub.
+- SSH onto remote severs using using commands on Linux OS.
+- Building an EC2 server suing Amazon Cloud AWS services.
+- Automation Project using Bash scprits.
+
+### Cloud Infrastructure
 <div>
-    <img src="https://img.shields.io/badge/-Amazon_AWS-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/-Amazon_AWS-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" /></a>  
+    <a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/-Terraform-623CE4?&style=for-the-badge&logo=Terraform&logoColor=white" /></a>
+    <a href="https://aws.amazon.com/cloudformation/"><img src="https://img.shields.io/badge/-AWS_CloudFormation-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" /></a>
 </div>
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+   <a href="https://www.linux.org"><img src="https://img.shields.io/badge/-Linux-007ACC?&style=for-the-badge&logo=Linux&logoColor=white" /></a>
+   <a href="https://www.microsoft.com/en-us/windows-server"><img src="https://img.shields.io/badge/-Microsoft_Windows_Servers-007ACC?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
+
 </div>
 
 
 ### Certifications 
 <div>
 <a href="https://solidcam.com/imachining/imachining-overview"><img src="https://img.shields.io/badge/-SolidCAM-007ACC?&style=for-the-badge&logo=Solidworks&logoColor=white" /></a>    
-<img src="https://img.shields.io/badge/-SolidCAM_HSR_%26_HSM_%7C_3D_High_Speed_Machining-007ACC?&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+   <a href="https://lordecsacademy.com"><img src="https://img.shields.io/badge/-Lordecs_Academy-007ACC?&style=for-the-badge&logo=Google%20Classroom&logoColor=white" /></a>
+
 </div>
