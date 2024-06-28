@@ -11,8 +11,8 @@ I am a CAD Designer/ CAM Programmer at a professional level and a recent DevOps 
 - Performing Engineering Operations (_June 2017_)
 
 ## Skills
-- .
-- .
+- . CAD Designer/CAM programmer
+- . 
 - .
 - .
 
@@ -31,10 +31,10 @@ I am a CAD Designer/ CAM Programmer at a professional level and a recent DevOps 
 - Visual Studio Code
 - 
 ### Projects
-- Creating repos for both public and private purposes using GitHub.
-- SSH onto remote severs using using commands on Linux OS.
-- Building an EC2 server suing Amazon Cloud AWS services.
-- Automation Project using Bash scprits.
+- Creating public and private repos using GitHub for a team project.
+- SSH onto remote severs such as AWS using commands from Linux OS.
+- Building, Testing, Deploying and Managing EC2 instances.
+- Automation Project using Bash, HTTLM scprits.
 
 ### Cloud Infrastructure
 <div>
