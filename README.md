@@ -29,7 +29,7 @@ I am a CAD Designer/ CAM Programmer at a professional level and a recent DevOps 
 - GitHub
 - Docker
 - Visual Studio Code
-- 
+
 ### Projects
 - Creating public and private repos using GitHub for a team project.
 - SSH onto remote severs such as AWS using commands from Linux OS.
