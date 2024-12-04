@@ -26,8 +26,8 @@ I am a CAD Designer/ CAM Programmer at a professional level and a recent DevOps 
 
 ### Developer Tools
 - HTML
-- Git
-- GitHub
+- Git & GitHub
+- Jenkins
 - Docker
 - Visual Studio Code
 
